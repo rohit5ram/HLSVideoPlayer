@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HLSVideoPlayer</string>
+    <string name="buffering_text">Buffering...</string>
+    <string name="string_player_main_view">HLS Player</string>
+</resources>
